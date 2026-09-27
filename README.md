@@ -2,7 +2,9 @@
 
 - 🔵 I'm based in India
 - 🟣 You can contact me at [patillisha10@gmail.com]
-- 🟠 I'm learning MERN Stack
+- 🟠 I am a 4th year engineering student in AI & DS
+
+
 
 ## Skills
 
@@ -14,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Basics
 
